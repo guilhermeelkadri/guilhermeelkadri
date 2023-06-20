@@ -1,6 +1,7 @@
 # Hello, I'm Guilherme El Kadri! 👋
 
-Welcome to my GitHub profile! I'm a passionate about embedded systems and software development.
+Welcome to my GitHub profile!
+
 Currently I am working as Embedded Software Engineer at [Stoneridge](https://www.stoneridge.com).
 
 
