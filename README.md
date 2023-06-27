@@ -1,8 +1,6 @@
 # Hello, I'm Guilherme El Kadri! 👋
 
-Welcome to my GitHub profile!
-
-Currently I am working as Embedded Software Engineer at [Stoneridge](https://www.stoneridge.com).
+Embedded Software Engineer at [Stoneridge](https://www.stoneridge.com).
 
 
 ## 🔭 Currently Working On
@@ -14,12 +12,15 @@ Currently I am working as Embedded Software Engineer at [Stoneridge](https://www
 I'm focusing on:
 
 - C++17
-- Python3
 
 ## 📫 How to Reach Me
 
-You can reach out to me via email at [guilhermeelkadri@gmail.com](mailto:guilhermeelkadri@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-el-kadri-ribeiro-634247133/).
+[Email](mailto:guilhermeelkadri@gmail.com) \
+[LinkedIn](https://www.linkedin.com/in/guilherme-el-kadri-ribeiro-634247133/) \
+[Site](https://guilhermeelkadri.github.io)
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeelkadri&show_icons=true&theme=dark)
+![Guilherme El Kadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeelkadri&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermeelkadri&theme=transparent)
