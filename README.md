@@ -1,6 +1,6 @@
 # Hello, I'm Guilherme El Kadri! 👋
 
-Embedded Software Engineer at [Stoneridge](https://www.stoneridge.com).
+Embedded Software Engineer.
 
 
 ## 🔭 Currently Working On
@@ -11,7 +11,7 @@ Embedded Software Engineer at [Stoneridge](https://www.stoneridge.com).
 
 I'm focusing on:
 
-- C++17
+- C++
 
 ## 📫 How to Reach Me
 
