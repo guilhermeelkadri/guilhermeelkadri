@@ -2,17 +2,6 @@
 
 Embedded Software Engineer.
 
-
-## 🔭 Currently Working On
-
-- [Data structures](https://github.com/guilhermeelkadri/data_structures) - Implementations of various data structures in different programming languages.
-
-## 🌱 Currently Learning
-
-I'm focusing on:
-
-- C++
-
 ## 📫 How to Reach Me
 
 [Email](mailto:guilhermeelkadri@gmail.com) \
